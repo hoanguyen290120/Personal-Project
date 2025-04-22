@@ -1,0 +1,62 @@
+🚀 Portfolio Projects
+
+✨ Project 1: Build Sales Data Mart using dbt (Data Build Tool)
+
+Description: Designed a modular data pipeline to build Sales Data Mart using dbt on SQL Server. Applied concepts like flattening, composite dimensions, and junk dimensions.
+
+Technologies: dbt-core, SQL Server, Jinja, Modular Data Modeling
+
+🔗 View Project
+
+📊 Project 2: Data Visualization with Power BI
+
+2.1 Sales Performance Dashboard
+
+Description: Built an interactive dashboard to analyze KPIs such as revenue trends, customer segmentation, and product line performance.
+
+Technologies: Power BI, DAX, Power Query
+
+2.2 DAX: From Basic to Advanced
+
+Description: Designed DAX measures for performance evaluation, trend analysis, time intelligence, and Pareto insights.
+
+🔗 View Dashboards
+
+🧠 Project 3: Business Analysis – Consumer Trends During Peak Season
+
+Description: Conducted deep-dive analysis to identify shifts in buying behavior during high-demand periods. Suggested strategies to improve product mix and promotion planning.
+
+Technologies: SQL, Excel, Power BI
+
+🔗 View Analysis
+
+🛠️ Project 4: Auto Push Data to Google Sheet using Python + SQL
+
+Description: Automated data extraction from SQL database and pushed to Google Sheets using Service Account credentials.
+
+Technologies: Python, SQL, Google Sheets API, gspread, pandas
+
+🔗 View Project
+
+⚡ Project 5: Workflow Automation using Power Automate
+
+Description: Built a workflow to:
+
+Track daily sales
+
+Monitor dataset refreshes in Power BI
+
+Send alerts via Microsoft Teams using Pareto analysis
+
+Technologies: Power Automate, Power BI, Teams, Flow Triggers
+
+📄 Documentation
+
+📈 Project 6: Develop SSAS System for Enterprise-Scale Reporting
+
+Description: Built an SSAS model with a 10M-row dataset for self-service BI. Reduced query time and enhanced accessibility for business users.
+
+Technologies: Python, T-SQL, SSAS, Power BI
+
+📄 Documentation
+
